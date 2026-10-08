@@ -1,0 +1,870 @@
+[
+  {
+    "num": 1,
+    "titol": "Prisma Vertical",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex01_001.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: Cub*"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 10"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 25"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 50"
+      },
+      {
+        "type": "text",
+        "value": "Color: verd"
+      },
+      {
+        "type": "text",
+        "value": "*En realitat és un prisma, ja que no tots els costats són iguals."
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "titol": "Cilindre aplanat",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex02_002.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cilindre"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 25"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 80"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: vermell"
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "titol": "Massa de Pa",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex03_003.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cilindre"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 60"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 10"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: taronja"
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "titol": "Con invertit",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex04_004.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Foma: con"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 50"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 30"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: blau clar"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex04_005.jpg"
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "titol": "Gran i Petit",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex05_006.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub *"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 30"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 30"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 25"
+      },
+      {
+        "type": "text",
+        "value": "Color: blanc"
+      },
+      {
+        "type": "text",
+        "value": "*És un prisma"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 10"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 10"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 10"
+      },
+      {
+        "type": "text",
+        "value": "Color: taronja"
+      },
+      {
+        "type": "text",
+        "value": "Col·loca la galleda taronja centrada sobre el prisma blanc:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex05_007.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Agrupa les dues formes i pinta l'objecte final de color rosa:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex05_008.jpg"
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "titol": "El Barret del Clown",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex06_009.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cilindre"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 10"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 40"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: taronja"
+      },
+      {
+        "type": "text",
+        "value": "Forma: con"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 35"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 40"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: morat"
+      },
+      {
+        "type": "text",
+        "value": "Col·loca el con just a sobre del cilindre:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex06_010.jpg"
+      },
+      {
+        "type": "text",
+        "value": "I després agrupa les dues formes i pinta-les de groc:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex06_011.jpg"
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "titol": "Foradant el Prisma",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex07_012.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub *"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 80"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 50"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 20"
+      },
+      {
+        "type": "text",
+        "value": "Color: xarxa"
+      },
+      {
+        "type": "text",
+        "value": "*És un prisma"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cilindre – forat"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 20"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 20"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Col·loca el cilindre al centre del prisma:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex07_013.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Agrupa les dues formes i pinta l'objecte final de color marró clar:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex07_014.jpg"
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "titol": "Frontal de Casa",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex08_015.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub*"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 20"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 70"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 50"
+      },
+      {
+        "type": "text",
+        "value": "Color: xarxa"
+      },
+      {
+        "type": "text",
+        "value": "*És un prisma"
+      },
+      {
+        "type": "text",
+        "value": "Forma: sostre*"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 20"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 70"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 30"
+      },
+      {
+        "type": "text",
+        "value": "Color: verd"
+      },
+      {
+        "type": "text",
+        "value": "*És un prisma triangular"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub* – forat"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 10"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 20"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 25"
+      },
+      {
+        "type": "text",
+        "value": "Col·loca el sostre damunt del prisma vermell i l'agulla de la porta a la posició que s'indica a la imatge:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex08_016.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Finalment agrupa-ho tot i pinta-ho de gris:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex08_017.jpg"
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "titol": "Arc de mig punt sobre dues columnes",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex09_018.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cilindre"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 50"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 15"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: maximum"
+      },
+      {
+        "type": "text",
+        "value": "Color: verd clar"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub*"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 15"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 15"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 15"
+      },
+      {
+        "type": "text",
+        "value": "Color: blanc"
+      },
+      {
+        "type": "text",
+        "value": "*És un prisma"
+      },
+      {
+        "type": "text",
+        "value": "Forma: sostre corb*"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 15"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 60"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 30"
+      },
+      {
+        "type": "text",
+        "value": "Color: blau clar"
+      },
+      {
+        "type": "text",
+        "value": "*És un semicilindre"
+      },
+      {
+        "type": "text",
+        "value": "Col·loca els cilindres damunt dels cubs ia continuació el sostre damunt dels cilindres:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex09_019.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Finalment agrupa-ho tot i pinta-ho de blanc:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex09_020.jpg"
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "titol": "Castell amb quatre torres",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex10_021.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cilindre"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 25"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 14"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: groc"
+      },
+      {
+        "type": "text",
+        "value": "Forma: cub*"
+      },
+      {
+        "type": "text",
+        "value": "Longitud: 60"
+      },
+      {
+        "type": "text",
+        "value": "Ample: 60"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 10"
+      },
+      {
+        "type": "text",
+        "value": "Color: blau fosc"
+      },
+      {
+        "type": "text",
+        "value": "*És un prisma"
+      },
+      {
+        "type": "text",
+        "value": "Forma: mitja esfera"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 25"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 50"
+      },
+      {
+        "type": "text",
+        "value": "Color: violeta"
+      },
+      {
+        "type": "text",
+        "value": "Forma: con"
+      },
+      {
+        "type": "text",
+        "value": "Alçada: 15"
+      },
+      {
+        "type": "text",
+        "value": "Diàmetre: 14"
+      },
+      {
+        "type": "text",
+        "value": "Nombre de costats: màxim"
+      },
+      {
+        "type": "text",
+        "value": "Color: verd clar"
+      },
+      {
+        "type": "text",
+        "value": "Col·loca la semiesfera centrada damunt del prisma. Després cadascun dels cilindres amb un con damunt a cadascun dels cantons del prisma:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex10_022.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Finalment agrupa-ho tot i pintat de blau."
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex10_023.jpg"
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "titol": "Arc del Triomf (París).",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex11_024.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Dissenya un model de l'Arc del Triomf, un dels monuments més emblemàtics de París. Aquest impressionant arc va ser manat construir per Napoleó per commemorar la seva victòria a la batalla d'Austerlitz i la seva construcció va durar 30 anys, entre 1806 i 1836."
+      },
+      {
+        "type": "text",
+        "value": "Per realitzar el model utilitza cubs i sostres corbs amb les dimensions adequades, com s'indica a les imatges de sota."
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_025.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_026.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_027.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_028.jpg"
+      },
+      {
+        "type": "text",
+        "value": "In fact, as it can be seen en la fotografia en el right, aquest monument ha two more arches on els seus sides. Try to add them to your design in order to improve your mark. Of course, vostè pot considerar les dimensions de la drawing per tocar la forma de l'original building."
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_029.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_030.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_031.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Dibuixa les figures de baix emprant el mínim nombre possible de peces ia continuació combina-les per formar un únic objecte. Per exemple, una possible solució a l'exercici número 12 és:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_032.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Tingues en compte que les dimensions de cada glaçó han de ser:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_033.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex11_034.jpg"
+      },
+      {
+        "type": "text",
+        "value": "Utilitzant aquesta caixa, pots observar les figures des de diferents vistes i comprovar que les solucions dels exercicis de la unitat són correctes."
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "titol": "Minecraft 1",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex12_035.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex12_036.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex12_037.jpg"
+      },
+      {
+        "type": "text",
+        "value": "(Tres peces són suficients)"
+      },
+      {
+        "type": "text",
+        "value": "(Tres peces són suficients)"
+      },
+      {
+        "type": "text",
+        "value": "(Cinc peces són suficients)"
+      }
+    ]
+  },
+  {
+    "num": 13,
+    "titol": "Minecraft 2",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex13_038.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex13_039.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex13_040.jpg"
+      },
+      {
+        "type": "text",
+        "value": "(Sis peces són suficients)"
+      },
+      {
+        "type": "text",
+        "value": "(Cinc peces són suficients)"
+      },
+      {
+        "type": "text",
+        "value": "(Set peces són suficients)"
+      }
+    ]
+  },
+  {
+    "num": 14,
+    "titol": "Minecraft 3",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex14_041.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex14_042.jpg"
+      },
+      {
+        "type": "text",
+        "value": "(Set peces són suficients)"
+      }
+    ]
+  },
+  {
+    "num": 15,
+    "titol": "Minecraft 4",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex15_043.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex15_044.jpg"
+      },
+      {
+        "type": "text",
+        "value": "(Set peces són suficients)"
+      }
+    ]
+  },
+  {
+    "num": 16,
+    "titol": "Minecraft 5",
+    "parts": [
+      {
+        "type": "image",
+        "value": "imatges/ex16_045.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex16_046.jpg"
+      },
+      {
+        "type": "text",
+        "value": "(Vuit peces són suficients)"
+      },
+      {
+        "type": "text",
+        "value": "Pàgina 5"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex16_047.jpg"
+      }
+    ]
+  },
+  {
+    "num": 17,
+    "titol": "Disseny d'un llum.",
+    "parts": [
+      {
+        "type": "text",
+        "value": "Dibuixa un model de Tinkercad el més semblant possible al llum de la dreta combinant diferents formes: cubs, prismes, cilindres, esferes… Hauràs d'establir les dimensions de manera aproximada i després col·locar cada forma en la posició adequada i amb la rotació apropiada."
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex17_048.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex17_049.jpg"
+      }
+    ]
+  },
+  {
+    "num": 18,
+    "titol": "Dissenya la teva taula.",
+    "parts": [
+      {
+        "type": "text",
+        "value": "Crea la teva pròpia taula de disseny utilitzant tots els elements de Tinkercad que vulguis. Pots prendre algunes idees dels exemples de sota:"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex18_050.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex18_051.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex18_052.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex18_053.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex18_054.jpg"
+      },
+      {
+        "type": "image",
+        "value": "imatges/ex18_055.jpg"
+      }
+    ]
+  }
+]

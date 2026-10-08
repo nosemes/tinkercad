@@ -1,0 +1,6 @@
+WEB TINKERCAD
+1. Copia els 10 vídeos MP4 a videos/ amb noms 01.mp4 ... 10.mp4.
+2. Puja el contingut de la carpeta tinkercad_web a un repositori GitHub.
+3. Settings > Pages > Deploy from a branch > main / (root) > Save.
+4. Per provar en local: python -m http.server 8000 i obre http://localhost:8000
+Nota: la web fa servir fetch() i no es pot provar obrint index.html amb file://.
